@@ -10,4 +10,4 @@ The end to end project includes..
 6. The analsys is done using Azure synapse analytics.
 7. Later the data is kept ready for reporting.
 
-![image](https://github.com/user-attachments/assets/ba85f212-64be-46aa-b9be-3197bc7c0096)
+![image](https://github.com/user-attachments/assets/97c2cffe-c5bb-49dd-aa45-c4145a98f27e)
